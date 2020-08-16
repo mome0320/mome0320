@@ -1,8 +1,8 @@
 ### Hello World `~~wavvvvvvvvvvve~~`  
 Happy Coding Habbist \~_\~ 
   
-🔭 I’m currently working on Discord Stuff.   
-🌱 I’m currently learning Machine Learning.   
+🔭 I’m currently learning React.js / JS    
+🌱 I’m interest in Machine Learning! <3   
    
 📫 How to reach me:
 > Discord: 모메MoMe#0500   
