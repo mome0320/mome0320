@@ -28,10 +28,9 @@ Happy Coding \~_\~
 멋진 영상물이나 디자인을 보면 어떻게 이런 발상을 냈을까라는 생각도 들기도 해요.  <3
 
 
-#### 메일
-📫 새로운 사람은 언제나 환영이에요! (How to reach me):
-> Discord: ![모메MoMe#0500](https://img.shields.io/badge/-%EB%AA%A8%EB%A9%94MoMe%EF%BC%830500-7289da?logo=Discord&logoColor=white)  
-> E-mail: ![mail@moart.media](https://img.shields.io/badge/-mail@moart.media-ffcd00?logo=Mail.Ru&logoColor=white&link=mailto:mail@moart.media)
+#### 연락처
+📫 새로운 사람은 언제나 환영이에요! (How to reach me):  
+![모메MoMe#0500](https://img.shields.io/badge/-%EB%AA%A8%EB%A9%94MoMe%EF%BC%830500-7289da?logo=Discord&logoColor=white) ![mail@moart.media](https://img.shields.io/badge/-mail@moart.media-ffcd00?logo=Mail.Ru&logoColor=white&link=mailto:mail@moart.media)
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=moartmedia&show_icons=true&theme=graywhite) ![Top language](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MoartMedia&hide=c%23,css,html&theme=graywhite)
 
