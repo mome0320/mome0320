@@ -32,7 +32,7 @@ Happy Coding \~_\~
 📫 새로운 사람은 언제나 환영이에요! (How to reach me):  
 ![모메MoMe#0500](https://img.shields.io/badge/-%EB%AA%A8%EB%A9%94MoMe%EF%BC%830500-7289da?logo=Discord&logoColor=white) [![mail@moart.media](https://img.shields.io/badge/-mail@moart.media-ffcd00?logo=Mail.Ru&logoColor=white)](mailto:mail@moart.media)
 
-![Git Stats](https://github-readme-stats.vercel.app/api?username=moartmedia&show_icons=true&theme=graywhite) ![Top language](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MoartMedia&hide=c%23,css,html&theme=graywhite)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=mome0320&show_icons=true&theme=graywhite) ![Top language](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mome0320&hide=c%23,css,html&theme=graywhite)
 
 <!--
 **MoartMedia/MoartMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
