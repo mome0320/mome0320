@@ -16,7 +16,7 @@
 <!-- 깃헙 프로젝트 불필요 한거 정리 20260329 -->
 
 
-## 📫 문의 언제나 환영이에요! (How to reach me):  
+## 📫 대화는 언제나 환영이에요! (How to reach me):  
 [![ee_khr@kgu.ac.kr](https://img.shields.io/badge/-ee_khr@kgu.ac.kr-ffcd00?logo=Mail.Ru&logoColor=white)](mailto:ee_khr@kgu.ac.kr)
 
 <!--![모메MoMe#0500](https://img.shields.io/badge/-%EB%AA%A8%EB%A9%94MoMe%EF%BC%830500-7289da?logo=Discord&logoColor=white) [![u.hello@kakao.com](https://img.shields.io/badge/-u.hello@kakao.com-ffcd00?logo=Mail.Ru&logoColor=white)](mailto:u.hello@kakao.com)
