@@ -13,6 +13,9 @@
 - 현재 24 이전 과거 프로젝트는 더이상 프로젝트 진행 하지 않아요. (아카이빙)
 
 
+<!-- 깃헙 프로젝트 불필요 한거 정리 20260329 -->
+
+
 ## 📫 문의 언제나 환영이에요! (How to reach me):  
 [![ee_khr@kgu.ac.kr](https://img.shields.io/badge/-ee_khr@kgu.ac.kr-ffcd00?logo=Mail.Ru&logoColor=white)](mailto:ee_khr@kgu.ac.kr)
 
